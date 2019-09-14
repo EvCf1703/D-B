@@ -7,7 +7,7 @@ Enter any number to see its binary form.
 
 ==========================================='''
 
-n = int('input')() 
+n = int('input'()) 
 bin = "" 
 temp = n 
 
