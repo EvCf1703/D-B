@@ -1,18 +1,19 @@
 #Created by 'Angga Surya'. 
 
-'''
+def banner():
+   print '''\033[93m\t\t\t
 ===========================================
 
 Enter any number to see its binary form.
 
-==========================================='''
+===========================================
+'''
 
 
-print("===========================================
 
-Enter any number to see its binary form.
 
-===========================================")
+
+
 
 
 print('Enter your num:')
