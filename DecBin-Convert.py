@@ -1,13 +1,13 @@
 #Created by 'Angga Surya'. 
 
 def banner():
-   print '''\033[93m\t\t\t
+   print('''\033[93m\t\t\t
 ===========================================
 
 Enter any number to see its binary form.
 
 ===========================================
-'''
+''')
 
 
 
