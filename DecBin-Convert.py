@@ -1,14 +1,14 @@
 #Created by 'Angga Surya'. 
 
-'''
+print"
 ===========================================
 
 Enter any number to see its binary form.
 
-==========================================='''
+==========================================="
 
 print('Enter your num:')
-n = input() 
+n = int(input()) 
 bin = "" 
 temp = n 
 
