@@ -1,7 +1,7 @@
 #Created by 'Angga Surya'. 
 
 def banner():
-   print("\033[93m\t\t\t
+   print("\033[93m
 ===========================================
 
 Enter any number to see its binary form.
@@ -16,7 +16,7 @@ Enter any number to see its binary form.
 
 
 
-print('\n\033[93m\t\t\tEnter your num:\n')
+print('\n\033[93mEnter your num:\n')
 n = int(input()) 
 bin = "" 
 temp = n 
