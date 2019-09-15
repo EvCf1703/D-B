@@ -9,7 +9,7 @@ print("\n===========================================\n")
 print("\nEnter any number to see its binary form.\n")
 
 print("\n===========================================\n")
-
+time.sleep(0.5)
 
 
 
@@ -19,9 +19,9 @@ print("\n===========================================\n")
 
 
 print('\nEnter your num:\n')
-print("=================================")
-time.sleep(1)
-n = int(input()) 
+
+time.sleep(0.5)
+n = int(input('==>')) 
 bin = "" 
 temp = n 
 
