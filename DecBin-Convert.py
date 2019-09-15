@@ -2,13 +2,13 @@
 
 import time
 
-def banner():
+
   
-print("===========================================")
+print("\n===========================================\n")
 
-print("Enter any number to see its binary form.")
+print("\nEnter any number to see its binary form.\n")
 
-print("===========================================")
+print("\n===========================================\n")
 
 
 
