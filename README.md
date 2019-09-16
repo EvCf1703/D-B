@@ -1,2 +1,2 @@
-#Decimal converter tools to Binary convert
-a bug? report! Hahaha
+##Decimal converter tools to Binary convert
+-- a bug? report! Hahaha
