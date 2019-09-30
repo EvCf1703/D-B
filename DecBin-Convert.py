@@ -18,7 +18,7 @@ time.sleep(0.5)
 
 
 
-print('\nEnter your num:\n')
+print("\nEnter your num:\n")
 
 time.sleep(0.5)
 n = int(input('==>')) 
